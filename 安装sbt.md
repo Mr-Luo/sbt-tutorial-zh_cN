@@ -14,14 +14,14 @@ If you have any trouble running sbt, see Setup Notes on terminal encodings, HT
 
 #安装Sbt
 
-你需要按照以下步骤来创建一个sbt 项目
+##你需要按照以下步骤来创建一个sbt 项目
 
-*安装sbt并创建一个脚本去启动它
-*设定一个简单的项目
-*创建项目文件并放入源代码
-*创建你的 build definition
-*移步 running 去学习怎么样运行sbt
-*然后移步.sbt build definition t去学习更多关于build definitions.
+* 安装sbt并创建一个脚本去启动它
+* 设定一个简单的项目
+* 创建项目文件并放入源代码
+* 创建你的 build definition
+* 移步 running 去学习怎么样运行sbt
+* 然后移步.sbt build definition t去学习更多关于build definitions.
 
 基本上，sbt的安装归结为a launcher JAR and a shell script，但是依赖你的系统，我们提供了几种方式去让这个过程少点沉闷。前往各系统相应的安装步骤以及安装说明Mac, Windows, Linux, or manual installation.
 

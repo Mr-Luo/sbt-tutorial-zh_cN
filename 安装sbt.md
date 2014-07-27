@@ -12,7 +12,7 @@ Tips and Notes 
 If you have any trouble running sbt, see Setup Notes on terminal encodings, HTTP proxies, and JVM options.
 
 
-安装Sbt
+#安装Sbt
 
 你需要按照以下步骤来创建一个sbt 项目
 

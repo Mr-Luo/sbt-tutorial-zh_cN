@@ -9,9 +9,9 @@ If you are in a huge hurry, the most important conceptual background can be foun
 It’s best to read in order, as later pages in the Getting Started Guide build on concepts introduced earlier.
 Thanks for trying out sbt and have fun!
 
-大致翻译一下（水平有限，欢迎指正。）：
+##大致翻译一下（水平有限，欢迎指正。）：
     
-        # 开始使用sbt
+        #开始使用sbt
 sbt 只需少量的概念即可提供灵活且强大的 build definitions.其它构建工具能让你在无意中发现它们的细节，就算你从来没有阅读过它们的相关文档， 但是只有为数不多的概念 sbt是个例外。
 此入门教程包含了你需要知道创建和维护sbt  build definition 的相关概念。
 因此，强烈推荐去阅读此入门教程。
